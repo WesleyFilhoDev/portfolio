@@ -12,7 +12,7 @@ export function Contact() {
       <div className="container min-h-screen px-6 py-12">
         {/* Título */}
         <div className="flex justify-center mt-8">
-          <h1 className="text-4xl sm:text-5xl font-bold text-white">
+          <h1 className="text-4xl sm:text-5xl text-center font-bold text-white">
             VAMOS CONVERSAR?
           </h1>
         </div>
