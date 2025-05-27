@@ -29,6 +29,13 @@ export function Projects() {
             title="PET DEV"
             description="Projeto de página de um pet shop fictício, feito com NextJS."
           />
+
+          <ProjectCard
+            link="https://jogo-da-senha-liart.vercel.app/"
+            image="/jogo.png"
+            title="JOGO DA SENHA"
+            description="Jogo da senha da feito com NextJS."
+          />
         </div>
       </div>
     </section>
